@@ -1,19 +1,19 @@
 @font-face {
   font-family: "ProximaNova";
-  src: url("/fonts/ProximaNovaBold.otf");
+  src: url("../fonts/ProximaNovaBold.otf");
 
   font-weight: normal;
 }
 
 @font-face {
   font-family: "ProximaNovaRegular";
-  src: url("/fonts/ProximaNova-Regular.ttf") format("truetype");
+  src: url("../fonts/ProximaNova-Regular.ttf") format("truetype");
   font-weight: normal;
 }
 
 @font-face {
   font-family: "ProximaNovaTThin";
-  src: url("/fonts/ProximaNovaThin.otf");
+  src: url("../fonts/ProximaNovaThin.otf");
   font-weight: normal;
 }
 
