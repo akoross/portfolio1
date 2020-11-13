@@ -260,7 +260,7 @@ header {
   display: block;
   float: left;
   margin-right: 30px;
-  background-image: url("/images/elipse.png");
+  background-image: url("../images/elipse.png");
   margin-bottom: 55px;
   text-align: center;
   font-size: 36px;
@@ -388,7 +388,7 @@ header {
 
 .slick-dots li.slick-active button:before {
   color: #ffffff;
-  background-image: url("/images/elips-smol-1.png");
+  background-image: url("../images/elips-smol-1.png");
   background-repeat: no-repeat;
 }
 
@@ -396,7 +396,7 @@ header {
   color: #ffffff;
   width: 10px;
   height: 10px;
-  background-image: url("/images/elips-smol-2-3.png");
+  background-image: url("../images/elips-smol-2-3.png");
   background-size: contain;
   background-repeat: no-repeat;
   left: 5px;
@@ -440,7 +440,7 @@ header {
   margin-right: 10px;
   font-size: 24px;
   text-align: center;
-  background-image: url("/images/elipce-soc.png");
+  background-image: url("../images/elipce-soc.png");
 }
 
 .team-man-description {
@@ -515,17 +515,17 @@ header {
 
 .skills .skills-1,
 .skills .skills-3 {
-  background-image: url("/images/75.png");
+  background-image: url("../images/75.png");
 }
 
 .skills .skills-2 {
-  background-image: url("/images/25.png");
+  background-image: url("../images/25.png");
   background-repeat: no-repeat;
   background-position-x: 85px;
 }
 
 .skills .skills-4 {
-  background-image: url("/images/50.png");
+  background-image: url("../images/50.png");
   background-repeat: no-repeat;
   background-position-x: 85px;
   margin-right: 0;
@@ -559,7 +559,7 @@ header {
   height: 50px;
   width: 100%;
   padding: 15px 20px 0 20px;
-  background-image: url("/images/skills-menu-border.png");
+  background-image: url("../images/skills-menu-border.png");
   background-size: cover;
 }
 
