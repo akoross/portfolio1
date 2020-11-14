@@ -29,6 +29,7 @@
 
 html,
 body {
+   width: 100%;
    margin: 0;
    padding: 0;
    font-family: "ProximaNovaRegular", Arial, Helvetica, serif;
@@ -67,6 +68,20 @@ p {
 header {
    width: 100%;
    color: #ffffff;
+}
+
+header,
+footer,
+.content-services,
+.content-our-works,
+.content-reviews,
+.our-team,
+.content-statistics,
+.our-skills,
+.content-mail,
+.content-clients,
+.contact-us {
+   min-width: max-content;
 }
 
 .clear-fix {
@@ -192,7 +207,7 @@ header {
 /* --------- Header--------- */
 
 .header-nav {
-   /* width: 100%; */
+   width: 100%;
    background: #000;
    padding: 20px 0;
 }
@@ -617,6 +632,7 @@ header {
 /* -----------content-mail----------- */
 
 .content-mail {
+   width: 100%;
    background: #42b8dd;
    padding: 20px 0 20px 0;
 }
